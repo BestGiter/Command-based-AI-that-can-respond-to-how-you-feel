@@ -25,10 +25,10 @@ if feeling == None:
     print("and not")
 else:
     if feeling < 0:
-        print("Hope you have a better day")
+        print("Hope you have a better day meow :3")
     if feeling == 0:
-        print("Its fine to just be ok")
+        print("Its fine to just be ok meow :3")
     if feeling > 0:
-        print("Ok thats good")
+        print("Ok thats good meowwwwww :33")
         
 
