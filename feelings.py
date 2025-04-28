@@ -3,10 +3,20 @@ print("welcome to this python game\nhow are you")
 answer = input()
 possibilities = {
     "good": 1,
+    "great": 1,
+    "fantastic": 1,
+    "wonderful": 1,
     "ok": 0,
+    "okay": 0,
+    "average": 0,
+    "neutral": 0,
+    "meh": 0,
     "bad": -1,
     "terrible": -1,
     "amazing": 1,
+    "i want to die": -1,
+    "awful": -1,
+    "could not be worse": -1,
     "fine": 0,
     "well": 1,
 }
